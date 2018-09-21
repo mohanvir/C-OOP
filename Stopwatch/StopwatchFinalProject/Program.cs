@@ -29,7 +29,7 @@ namespace StopwatchFinalProject{
     class MainClass{
         public static void Main(string[] args){
 
-            Console.WriteLine("This apps goal is to function as a timer.\n You have four options, Start, Stop, Reset, and Done");
+            Console.WriteLine("This apps goal is to function as a timer.\n You have two options, Start, Stop.\n Notice Stop has the same features has Lap would ");
             StopWatch Watch = new StopWatch();
 
            string input= Console.ReadLine();
