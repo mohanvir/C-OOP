@@ -1,0 +1,6 @@
+/Users/adminuser/Desktop/LearningC#/StopwatchFinalProject/StopwatchFinalProject/bin/Debug/StopwatchFinalProject.exe
+/Users/adminuser/Desktop/LearningC#/StopwatchFinalProject/StopwatchFinalProject/bin/Debug/StopwatchFinalProject.pdb
+/Users/adminuser/Desktop/LearningC#/StopwatchFinalProject/StopwatchFinalProject/obj/x86/Debug/StopwatchFinalProject.csprojAssemblyReference.cache
+/Users/adminuser/Desktop/LearningC#/StopwatchFinalProject/StopwatchFinalProject/obj/x86/Debug/StopwatchFinalProject.csproj.CoreCompileInputs.cache
+/Users/adminuser/Desktop/LearningC#/StopwatchFinalProject/StopwatchFinalProject/obj/x86/Debug/StopwatchFinalProject.exe
+/Users/adminuser/Desktop/LearningC#/StopwatchFinalProject/StopwatchFinalProject/obj/x86/Debug/StopwatchFinalProject.pdb
